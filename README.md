@@ -1,12 +1,12 @@
 # Cameratest
 
-Project
+Project:
 
-To test how computer program interact with computer hardware
+To test how computer programs interact with computer hardware.
 
-This code runs locally on device
+This code runs locally on a device.
 
-For program to try, you need to install cv2 library from python
+To run the program, you need to install the cv2 library from Python.
 
 
 
